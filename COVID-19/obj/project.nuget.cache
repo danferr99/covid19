@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MUcNjfwo0zEgaqUR6tOPfHXJqxyPtvNMy1PlIkqyfYhFPRrhEZptTjvwE1wAkVH+8me/sdIxPsvjqGQi1GSM9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PICHAU\\Desktop\\COVID-19\\COVID-19\\COVID-19.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PICHAU\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
